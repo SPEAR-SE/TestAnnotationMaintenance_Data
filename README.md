@@ -1,7 +1,7 @@
 # TestAnnotationMaintenance_Data
 
 ### Description
-TestAnnotationMaintenance_Data is a collection of annotation edit patterns (i.e., add/remove/modified) at three program elements (i.e., field/method/class) collected through ten open-source projects.
+TestAnnotationMaintenance_Data is a collection of annotation edit patterns (i.e., add/remove/modified) at three program elements (i.e., field/method/class) collected through twelve open-source projects.
 
 ### Summary of studied projects between 2015 to 2020
 
